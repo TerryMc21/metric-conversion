@@ -1,9 +1,11 @@
 //getting started metric conversion
 function fToM(){
 
-  
+if (=0 or <100) 
+	alert 
  
 if meters = 0.3048;
+	else if
 
 
   var measure = parseInt(document.getElementById("meters").value);
@@ -14,7 +16,8 @@ if meters = 0.3048;
   console.flag(message);
   
   
-  
+  if centimeters = 2.54
+  else if
   var measure = parseInt(document.getElementById("inchs").value);
 //should convert centimeters to inchs
   
@@ -47,9 +50,11 @@ if meters = 0.3048;
   
   
   
-  document.getElementbyId("resultsentence").innerHTML = message;
-  document.getElementbyId("resultsentence").innerHTML = message;
-  document.getElementbyId("resultsentence").innerHTML = message;
-  document.getElementbyId("resultsentence").innerHTML = message;
+  document.getElementbyId("resultsentence").innerHTML = meters to feet ;
+  document.getElementbyId("resultsentence").innerHTML = centimeters to inchs;
+  document.getElementbyId("resultsentence").innerHTML = yards to meters;
+  document.getElementbyId("resultsentence").innerHTML = miles to meters;
   
 }
+
+//end function
